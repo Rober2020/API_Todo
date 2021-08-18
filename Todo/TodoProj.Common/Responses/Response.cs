@@ -1,4 +1,4 @@
-﻿namespace Todo.Common.Responses
+﻿namespace TodoProj.Common.Responses
 {
     public class Response
     {

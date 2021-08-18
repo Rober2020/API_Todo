@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Todo.Common.Models
+namespace TodoProj.Common.Models
 {
     public class Todo
     {

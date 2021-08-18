@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Todo.Functions.Entities
+namespace TodoProj.Functions.Entities
 {
     public class TodoEntity : TableEntity
     {

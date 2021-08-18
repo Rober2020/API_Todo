@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Common", "Todo.Common\Todo.Common.csproj", "{731832CF-84A2-432B-A798-51215980A390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoProj.Common", "TodoProj.Common\TodoProj.Common.csproj", "{731832CF-84A2-432B-A798-51215980A390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Functions", "Todo.Functions\Todo.Functions.csproj", "{31F88349-E644-4193-8085-DE92D1574646}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoProj.Functions", "TodoProj.Functions\TodoProj.Functions.csproj", "{31F88349-E644-4193-8085-DE92D1574646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Test", "Todo.Test\Todo.Test.csproj", "{2B693FE1-7387-4881-BC9F-9A9B818CD6C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoProj.Test", "TodoProj.Test\TodoProj.Test.csproj", "{2B693FE1-7387-4881-BC9F-9A9B818CD6C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
