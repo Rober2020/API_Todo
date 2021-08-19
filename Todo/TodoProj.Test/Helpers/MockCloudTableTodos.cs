@@ -27,7 +27,7 @@ namespace TodoProj.Test.Helpers
             return await Task.FromResult(new TableResult
             {
                 HttpStatusCode = 200,
-                Result = TestFactory.GetTodoEntity
+                Result = TestFactory.GetTodoEntity()
             });
         }
     }
